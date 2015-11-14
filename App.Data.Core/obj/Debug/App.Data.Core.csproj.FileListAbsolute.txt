@@ -1,0 +1,10 @@
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\bin\Debug\App.Data.Core.dll.config
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\bin\Debug\App.Data.Core.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\bin\Debug\App.Data.Core.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\bin\Debug\EntityFramework.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\bin\Debug\EntityFramework.xml
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\obj\Debug\App.Data.Core.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\obj\Debug\App.Data.Core.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Core\obj\Debug\App.Data.Core.pdb

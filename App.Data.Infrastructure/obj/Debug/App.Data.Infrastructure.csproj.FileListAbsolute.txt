@@ -1,0 +1,14 @@
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\obj\Debug\App.Data.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\App.Data.Infrastructure.dll.config
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\App.Data.Infrastructure.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\App.Data.Infrastructure.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\App.Data.Core.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\App.Data.Core.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\obj\Debug\App.Data.Infrastructure.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\obj\Debug\App.Data.Infrastructure.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\App.Data.DomainModel.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Infrastructure\bin\Debug\App.Data.DomainModel.pdb

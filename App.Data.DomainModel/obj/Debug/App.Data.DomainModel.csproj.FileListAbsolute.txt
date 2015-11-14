@@ -1,0 +1,7 @@
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.DomainModel\bin\Debug\App.Data.DomainModel.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.DomainModel\bin\Debug\App.Data.DomainModel.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.DomainModel\obj\Debug\App.Data.DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.DomainModel\obj\Debug\App.Data.DomainModel.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.DomainModel\obj\Debug\App.Data.DomainModel.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.DomainModel\bin\Debug\App.Data.Core.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.DomainModel\bin\Debug\App.Data.Core.pdb
