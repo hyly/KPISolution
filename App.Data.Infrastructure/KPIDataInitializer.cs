@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using System.Data.Entity;
 namespace App.Data.Infrastructure
 {
-    public class AppDataInitializer : DropCreateDatabaseIfModelChanges<TestDataContext>
+    public class KPIDataInitializer : DropCreateDatabaseIfModelChanges<KPIDataContext>
     {
-        protected override void Seed(TestDataContext context)
+        protected override void Seed(KPIDataContext context)
         {
             context.Products.Add(new DomainModel.Entities.Product() { 
                 Active=true,Color="Yellow",Name="Test Product 1",Price=189
@@ -18,7 +18,7 @@ namespace App.Data.Infrastructure
                 Active = true,
                 Color = "Yellow",
                 Name = "Test Product 2",
-                Price = 189
+                Price = 189,
             });
             context.Products.Add(new DomainModel.Entities.Product()
             {

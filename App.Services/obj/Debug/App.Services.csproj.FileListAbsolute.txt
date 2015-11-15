@@ -18,3 +18,5 @@ C:\Users\SOHY\Desktop\InternalApp\App\App.Services\obj\Debug\App.Services.Implem
 C:\Users\SOHY\Desktop\InternalApp\App\App.Services\obj\Debug\App.Services.Implementation.pdb
 C:\Users\SOHY\Desktop\InternalApp\App\App.Services\bin\Debug\App.Data.DomainModel.dll
 C:\Users\SOHY\Desktop\InternalApp\App\App.Services\bin\Debug\App.Data.DomainModel.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Services\bin\Debug\AutoMapper.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Services\bin\Debug\AutoMapper.xml

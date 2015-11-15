@@ -21,5 +21,26 @@ namespace App.Services.Implementation
         {
             return this.productRepository.GetById(id).Name;
         }
+
+        public ProductDto GetProductById(int id)
+        {
+            var entity = this.productRepository.GetById(id);
+            return AutoMapper.Mapper.Map<ProductDto>(entity);
+        }
+
+        public IEnumerable<ProductDto> GetAllProducts()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Data.Core.PageResult<ProductDto> GetProducts(Data.Core.Page page)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IEnumerable<ProductDto> GetProducts(System.Linq.Expressions.Expression<Func<ProductDto, bool>> where)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

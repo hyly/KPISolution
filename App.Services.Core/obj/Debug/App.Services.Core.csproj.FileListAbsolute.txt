@@ -3,3 +3,7 @@ C:\Users\SOHY\Desktop\InternalApp\App\App.Services.Core\bin\Debug\App.Services.C
 C:\Users\SOHY\Desktop\InternalApp\App\App.Services.Core\obj\Debug\App.Services.Core.csprojResolveAssemblyReference.cache
 C:\Users\SOHY\Desktop\InternalApp\App\App.Services.Core\obj\Debug\App.Services.Core.dll
 C:\Users\SOHY\Desktop\InternalApp\App\App.Services.Core\obj\Debug\App.Services.Core.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Services.Core\bin\Debug\App.Data.Core.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Services.Core\bin\Debug\App.Data.DomainModel.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Services.Core\bin\Debug\App.Data.Core.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Services.Core\bin\Debug\App.Data.DomainModel.pdb

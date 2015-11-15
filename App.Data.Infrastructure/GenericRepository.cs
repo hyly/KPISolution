@@ -70,12 +70,12 @@ namespace App.Data.Infrastructure
         /// <param name="where">Where clause to apply</param>
         /// <param name="order">Order by to apply</param>
         /// <returns></returns>
-        //public virtual IPagedList<T> GetPage<TOrder>(Page page, Expression<Func<T, bool>> where, Expression<Func<T, TOrder>> order)
-        //{
-        //    var results = dbset.OrderBy(order).Where(where).GetPage(page).ToList();
-        //    var total = dbset.Count(where);
-        //    return new StaticPagedList<T>(results, page.PageNumber, page.PageSize, total);
-        //}
+        public virtual PageResult<T> GetPage<TOrder>(Page page, Expression<Func<T, bool>> where, Expression<Func<T, TOrder>> order)
+        {
+            var results = dbset.OrderBy(order).Where(where).GetPage(page).ToList();
+            var total = dbset.Count(where);
+            return new PageResult<T>(results, page, total);
+        }
 
         public T Get(Expression<Func<T, bool>> where)
         {

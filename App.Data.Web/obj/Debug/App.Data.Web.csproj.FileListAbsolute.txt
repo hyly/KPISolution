@@ -69,3 +69,5 @@ C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Web\obj\Debug\App.Data.Web.dll
 C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Web\obj\Debug\App.Data.Web.pdb
 C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Web\bin\App.Data.DomainModel.dll
 C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Web\bin\App.Data.DomainModel.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Web\bin\AutoMapper.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Web\bin\AutoMapper.xml

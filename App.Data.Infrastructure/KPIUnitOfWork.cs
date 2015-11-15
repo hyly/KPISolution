@@ -5,11 +5,11 @@ using System.Data.Entity;
 
 namespace App.Data.Infrastructure
 {
-    public class TestUnitOfWork : IUnitOfWork
+    public class KPIUnitOfWork : IUnitOfWork
     {
         private IProductRepository productRepository = null;
         private DbContext context = null;
-        public TestUnitOfWork(IProductRepository productRepository,DbContext context)
+        public KPIUnitOfWork(IProductRepository productRepository,DbContext context)
         {
             this.productRepository = productRepository;
             this.context = context;

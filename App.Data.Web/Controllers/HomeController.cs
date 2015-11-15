@@ -16,8 +16,8 @@ namespace App.Data.Web.Controllers
         }
         public ActionResult Index()
         {
-            var productName = productSvc.GetProductNameById(1);
-            ViewBag.name = productName;
+            var product = productSvc.GetProductById(1);
+            ViewBag.product = product;
             return View();
         }
 

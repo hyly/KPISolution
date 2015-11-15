@@ -63,6 +63,8 @@
     <Compile Include="Entities\Product.cs" />
     <Compile Include="IUserProfileRepository.cs" />
     <Compile Include="IUserRepository.cs" />
+    <Compile Include="Page.cs" />
+    <Compile Include="PageResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\UserProfile.cs" />

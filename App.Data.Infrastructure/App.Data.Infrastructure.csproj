@@ -46,18 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AppDataContext.cs" />
-    <Compile Include="CategoryRepository.cs" />
-    <Compile Include="AppDataInitializer.cs" />
+    <Compile Include="KPIDataInitializer.cs" />
     <Compile Include="GenericRepository.cs" />
-    <Compile Include="ProductRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestDataContext.cs" />
-    <Compile Include="TestProductRepository.cs" />
-    <Compile Include="TestUnitOfWork.cs" />
-    <Compile Include="UnitOfWork.cs" />
-    <Compile Include="UserProfileRepository.cs" />
-    <Compile Include="UserRepository.cs" />
+    <Compile Include="KPIDataContext.cs" />
+    <Compile Include="ProductRepository.cs" />
+    <Compile Include="KPIUnitOfWork.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\App.Data.Core\App.Data.Core.csproj">

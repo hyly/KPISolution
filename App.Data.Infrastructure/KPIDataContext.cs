@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace App.Data.Infrastructure
 {
-    public class TestDataContext : DbContext
+    public class KPIDataContext : DbContext
     {
-        public TestDataContext(string nameConnectionString)
+        public KPIDataContext(string nameConnectionString)
             : base(nameConnectionString)
         {
-            Database.SetInitializer<TestDataContext>(new AppDataInitializer());
+            Database.SetInitializer<KPIDataContext>(new KPIDataInitializer());
         }
         public virtual IDbSet<App.Data.DomainModel.Entities.Product> Products { get; set; }
     }
