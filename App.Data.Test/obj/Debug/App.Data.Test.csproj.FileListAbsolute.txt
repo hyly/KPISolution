@@ -1,0 +1,9 @@
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\bin\Debug\App.Data.Test.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\bin\Debug\App.Data.Test.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\bin\Debug\Moq.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\bin\Debug\nunit.framework.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\bin\Debug\Moq.xml
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\bin\Debug\nunit.framework.xml
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\obj\Debug\App.Data.Test.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\obj\Debug\App.Data.Test.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Data.Test\obj\Debug\App.Data.Test.pdb
