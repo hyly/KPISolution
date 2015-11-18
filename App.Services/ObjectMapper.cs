@@ -10,6 +10,7 @@ namespace App.Services.Implementation
     {
         public static void CreateObjectServicesMap() {
             Mapper.CreateMap<Product, ProductDto>();
+            Mapper.CreateMap<List<Product>, List<ProductDto>>();
         }
     }
 }

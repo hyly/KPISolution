@@ -1,4 +1,4 @@
-﻿using App.Data.Core;
+﻿ using App.Data.Core;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +10,9 @@ namespace App.Services.Core
 {
     public interface IProductServices
     {
-        string GetProductNameById(int id);
         ProductDto GetProductById(int id);
-        IEnumerable<ProductDto> GetAllProducts();
+        List<ProductDto> GetAllProducts();
         PageResult<ProductDto> GetProducts(Page page);
-        IEnumerable<ProductDto> GetProducts(Expression<Func<ProductDto, bool>> where);
+        List<ProductDto> GetProducts(Expression<Func<ProductDto, bool>> where);
     }
 }

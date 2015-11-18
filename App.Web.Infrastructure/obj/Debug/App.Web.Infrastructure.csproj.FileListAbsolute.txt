@@ -1,0 +1,16 @@
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Web.Infrastructure.dll.config
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Web.Infrastructure.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Web.Infrastructure.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Services.Core.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Services.Implementation.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Data.DomainModel.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Data.Core.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\AutoMapper.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Services.Core.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Services.Implementation.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Data.DomainModel.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\App.Data.Core.pdb
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\bin\Debug\AutoMapper.xml
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\obj\Debug\App.Web.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\obj\Debug\App.Web.Infrastructure.dll
+C:\Users\SOHY\Desktop\InternalApp\App\App.Web.Infrastructure\obj\Debug\App.Web.Infrastructure.pdb

@@ -46,6 +46,7 @@
     <Compile Include="BaseServices.cs" />
     <Compile Include="Cache\BuiltInCache.cs" />
     <Compile Include="Cache\HttpContextCache.cs" />
+    <Compile Include="Extensions\ExpressionExtensions.cs" />
     <Compile Include="ObjectMapper.cs" />
     <Compile Include="ProductServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
