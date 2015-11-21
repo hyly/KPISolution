@@ -13,6 +13,7 @@ namespace App.Services.Core
         ProductDto GetProductById(int id);
         List<ProductDto> GetAllProducts();
         PageResult<ProductDto> GetProducts(Page page);
+        PageResult<ProductDto> GetProducts(Page page, Expression<Func<ProductDto, bool>> filter);
         List<ProductDto> GetProducts(Expression<Func<ProductDto, bool>> where);
     }
 }
