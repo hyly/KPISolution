@@ -1,15 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace App.Data.Core
 {
+    [DataContract]
     public class Page
     {
+        [DataMember(Name="pageNumber")]
         public int PageNumber { get; set; }
+
+        [DataMember(Name="pageSize")]
         public int PageSize { get; set; }
+
         public Page()
         {
             PageNumber = 1;
@@ -20,6 +26,7 @@ namespace App.Data.Core
             PageNumber = pageNumber;
             PageSize = pageSize;
         }
+
         public int Skip
         {
             get { return (PageNumber - 1) * PageSize; }

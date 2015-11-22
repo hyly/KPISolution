@@ -24,5 +24,11 @@ namespace App.Web.Api.Controllers
         public List<ProductDto> GetAllProducts() {
             return this.productServices.GetAllProducts();
         }
+
+        [HttpPost]
+        public Data.Core.PageResult<ProductDto> GetProducts(Data.Core.Page page)
+        {
+            return this.productServices.GetProducts(page);
+        }
     }
 }
