@@ -50,5 +50,21 @@ namespace App.Services.Implementation
             var results = this.productRepository.GetMany(filter).ToList();
             return results.Select(it=> AutoMapper.Mapper.Map<ProductDto>(it)).ToList();
         }
+
+        public void Insert(ProductDto product) {
+            this.productRepository.Add(new Product()
+            {
+                Active = product.Active,
+                Color = product.Color,
+                Description = product.Description,
+                DisplayOrder = product.DisplayOrder,
+                ImagePath = product.ImagePath,
+                MetaDescription = product.MetaDescription,
+                MetaKeywords = product.MetaKeywords,
+                MetaTitle = product.MetaTitle,
+                Name = product.Name,
+                Price = product.Price
+            });
+        }
     }
 }

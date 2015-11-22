@@ -15,5 +15,6 @@ namespace App.Services.Core
         PageResult<ProductDto> GetProducts(Page page);
         PageResult<ProductDto> GetProducts(Page page, Expression<Func<ProductDto, bool>> filter);
         List<ProductDto> GetProducts(Expression<Func<ProductDto, bool>> where);
+        void Insert(ProductDto product);
     }
 }

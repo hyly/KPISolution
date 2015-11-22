@@ -30,5 +30,10 @@ namespace App.Web.Api.Controllers
         {
             return this.productServices.GetProducts(page);
         }
+
+        [HttpPost]
+        public void Insert(ProductDto product) {
+            this.productServices.Insert(product);
+        }
     }
 }
